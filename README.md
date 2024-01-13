@@ -44,7 +44,5 @@ This Streamlit application uses a deep learning model to predict pneumonia from 
    
 5. **Run the Application Online :**
 
-    ```bash
 https://pneumonia-predictor-app.streamlit.app/
-    ```
 
